@@ -9,8 +9,9 @@ This navigation system uses topological maps, generated from an initial environm
 2. **Graph Construction**: The nodes are connected to form a coherent graph, with NetworkX library ensuring efficient structure.
 3. **Path Planning**: Dijkstra’s algorithm is used to find the optimal path from the robot’s current location to the desired target node.
 
-![Topological Navigation](./media/image1)
-![Topological Navigation](./media/image2)
+![Topological Navigation](./media/Image1.png)
+
+![Topological Navigation](./media/Image2.png)
 
 ## Key Components
 

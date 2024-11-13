@@ -11,8 +11,6 @@ This navigation system uses topological maps, generated from an initial environm
 
 ![Topological Navigation](./media/Image1.png)
 
-![Topological Navigation](./media/Image2.png)
-
 ## Key Components
 
 - **Map Preprocessing**: The map is segmented into regions, with nodes identified using Voronoi diagrams and Watershed segmentation to define connection points.
